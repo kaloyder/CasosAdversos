@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.webcindario.casosadversos"
+        versionCode = "10" 
+        version     = "1.0.0" >
+	<access origin="*"/>
+    <!-- versionCode is optional and Android only -->
+
+    <name>App Casos Adversos</name>
+
+    <description>
+       Aplicativo Web/Móvil para el registro la notificación de eventos adversos en la Clínica Cartagena del mar.
+    </description>
+
+    <author href="http://casosadversos.webcindario.com/" email="carlostevengulfo@gmail.com">
+       Carlos Stevens Gulfo Arroyo
+    </author>
+
+</widget>
